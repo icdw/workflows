@@ -33,11 +33,21 @@
         <mxCell id="6DekGpoWTz4Pr06EydBl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6DekGpoWTz4Pr06EydBl-9" target="6DekGpoWTz4Pr06EydBl-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8tevV_BNTWAozpG6n96q-12" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6DekGpoWTz4Pr06EydBl-16">
+          <mxGeometry x="-0.3342" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6DekGpoWTz4Pr06EydBl-9" value="Click on REGISTER" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="353" y="230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6DekGpoWTz4Pr06EydBl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6DekGpoWTz4Pr06EydBl-10" target="6DekGpoWTz4Pr06EydBl-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8tevV_BNTWAozpG6n96q-13" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6DekGpoWTz4Pr06EydBl-18">
+          <mxGeometry x="-0.3336" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6DekGpoWTz4Pr06EydBl-10" value="Click on SIGN-IN" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="230" width="80" height="80" as="geometry" />
@@ -148,7 +158,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6DekGpoWTz4Pr06EydBl-40" value="Share to relevant SM platform" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6DekGpoWTz4Pr06EydBl-40" value="Direct &amp;amp; Share to relevant SM platform" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8tevV_BNTWAozpG6n96q-2" value="Stay on SM Platform" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -170,6 +180,9 @@
         </mxCell>
         <mxCell id="8tevV_BNTWAozpG6n96q-8" value="Go back to page with PREVIOUS LINK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8tevV_BNTWAozpG6n96q-14" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 21, 49);&quot;&gt;Abort after 3 retries&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Unicons_Line_vol_3-2965/exclamation-circle-1279.svg;fillColor=#FF0505;" vertex="1" parent="1">
+          <mxGeometry x="780" y="490" width="24" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
